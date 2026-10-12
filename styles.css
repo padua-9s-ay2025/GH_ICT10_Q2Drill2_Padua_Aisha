@@ -1,0 +1,38 @@
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOaDd9fxkGSisvuJOjVXJRoKW06lxZLlnYjI_vBr-Zvveo_4GfhVQDuc&s=10');
+    background-size: cover;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: #EFE6D5;
+    font-family: "Archivo Black", sans-serif;
+}
+
+h2 {
+    color: #EFE6D5;
+    font-family: "Archivo Black", sans-serif;
+}
+h3 {
+    color: #EFE6D5; 
+    font-family: "Montserrat", sans-serif;
+}
+
+.col-md-8 {
+    background-color: #1d478e;
+    color: #ffffff; 
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+input, select {
+    width: 100%;
+    padding: 16px;  
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+    font-size: 16px;
+}
